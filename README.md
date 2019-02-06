@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A probot app for the purpose to introduce users to the open source world
 
 ## What it does
 
-FEATURES PLACEHOLDER
+An app that welcomes the user who joins the project
 
 ## Getting started
 
